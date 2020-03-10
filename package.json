@@ -1,0 +1,15 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DJ",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^7.0.2",
+    "nodemon": "^1.18.9"
+  }
+}
